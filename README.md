@@ -2,24 +2,6 @@
 
 **All the levels are done using the given linux commands of each levels. Screenshots are attached to each level for more information**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **Bandit 0**
 ![level 0](https://cloud.githubusercontent.com/assets/18344974/14378856/1b170ac6-fd95-11e5-900b-204dd86c13e2.png)
 
@@ -54,6 +36,7 @@
 ![level 10](https://cloud.githubusercontent.com/assets/18344974/14378864/1b4e20ba-fd95-11e5-96d9-b62a87d0bfed.png)
 
 **Bandit 11**
+
 ![level 11](https://cloud.githubusercontent.com/assets/18344974/14378866/1b4e6dfe-fd95-11e5-9a9c-5e289d98f1ad.png)
 
 **Bandit 12**
@@ -65,9 +48,11 @@
 ![le vel 13-2](https://cloud.githubusercontent.com/assets/18344974/14378855/1b03189a-fd95-11e5-8c92-20f36cd07b10.png)
 
 **Bandit 14**
+
 ![level 14](https://cloud.githubusercontent.com/assets/18344974/14378870/1b7f99ce-fd95-11e5-8c0f-2a29db95952a.png)
 
 **Bandit 15**
+
 ![level 15-1](https://cloud.githubusercontent.com/assets/18344974/14378873/1b862faa-fd95-11e5-8bc9-f13bda393d67.png)
 ![level 15-2](https://cloud.githubusercontent.com/assets/18344974/14378872/1b829a66-fd95-11e5-8841-9cb7e7ec26f4.png)
 
