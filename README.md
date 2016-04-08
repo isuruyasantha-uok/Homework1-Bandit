@@ -56,3 +56,6 @@
 ![level 15-1](https://cloud.githubusercontent.com/assets/18344974/14378873/1b862faa-fd95-11e5-8bc9-f13bda393d67.png)
 ![level 15-2](https://cloud.githubusercontent.com/assets/18344974/14378872/1b829a66-fd95-11e5-8841-9cb7e7ec26f4.png)
 
+**Issues I faced**
+Some commands had to search on internet and undestand what the particular command does.
+
